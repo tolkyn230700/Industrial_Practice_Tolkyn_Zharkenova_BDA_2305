@@ -1,0 +1,11 @@
+course_id,title,format,is_paid,duration_weeks,category,author_id
+1,Data Analytics с нуля,video,0,9,Data Science,6
+2,Введение в машинное обучение,video+text,1,6,Data Science,25
+3,Погружение в статистику для аналитиков,text,0,10,Data Science,16
+4,Основы стратегического менеджмента,video+text,1,3,Business,23
+5,Маркетинг в цифровую эпоху,video,1,7,Business,18
+6,Финансовая грамотность и личный бюджет,text,1,8,Business,23
+7,Алгоритмы и структуры данных,text,1,8,Computer Science,14
+8,Основы Python-программирования,video,1,2,Computer Science,7
+9,Эффективное общение и публичные выступления,video+text,1,11,Soft Skills,23
+10,Английский для начинающих: первые шаги,text,0,11,Language Learning,13
